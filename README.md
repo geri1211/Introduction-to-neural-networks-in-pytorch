@@ -1,11 +1,6 @@
-[README (1).md](https://github.com/user-attachments/files/33966794/README.1.md)
-
 # Introduction to Neural Networks in PyTorch
 
 A collection of the hands-on lab notebooks and projects I completed during my course on neural networks with PyTorch. The course starts with tensors and linear regression and builds up step by step to deep neural networks and convolutional neural networks (CNNs), ending with two projects.
-
-> **Course:** _[Add your course name and provider here]_
-> **Platform:** IBM Skills Network labs
 
 ---
 
@@ -119,25 +114,7 @@ The prefix of each notebook is its module and lesson number.
 
 ---
 
-## Running the Notebooks
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
-   ```
-2. Install the dependencies:
-   ```bash
-   pip install torch torchvision numpy pandas scikit-learn matplotlib jupyter
-   ```
-3. Launch Jupyter and open any notebook:
-   ```bash
-   jupyter notebook
-   ```
-
-Some notebooks download datasets such as MNIST the first time they run, so an internet connection is needed. A GPU isn't required for these labs. A few of the gradient descent notebooks contain many saved plots and may be slow to open on GitHub.
-
----
 
 ## Acknowledgments
 
